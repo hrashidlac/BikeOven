@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
         agblack: ['AgencyFB BlackWide', 'sans-serif'],
         agreg: ['AgencyFB RegularWide', 'sans-serif'],
-        agbold: ['Agency fb bold', 'sans-serif'],
+        agbold: ['AgencyFB', 'sans-serif'],
       },
     },
     colors:{

@@ -8,20 +8,29 @@
 }
 
 @font-face {
-    font-family: 'AgencyFB RegularWide';
-    src: url('AgencyFB-RegularWide.woff2') format('woff2'),
-        url('AgencyFB-RegularWide.woff') format('woff');
-    font-weight: normal;
+    font-family: 'AgencyFB';
+    src: url('AgencyFB-Bold.woff2') format('woff2'),
+        url('AgencyFB-Bold.woff') format('woff');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-  font-family: 'Agency fb bold';
-  src: url('agency-fb-bold.woff2') format('woff2'),
-      url('agency-fb-bold.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Avenir LT Std';
+    src: url('AvenirLTStd-Black.woff2') format('woff2'),
+        url('AvenirLTStd-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AgencyFB';
+    src: url('AgencyFB-Regular.woff2') format('woff2'),
+        url('AgencyFB-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
