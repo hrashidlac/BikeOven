@@ -12,7 +12,7 @@
               the oven is looking for volunteers
               for other nights of the week.
               to get involved please fill out the 
-              volunteer form.
+              volunteer form.<br>&nbsp;
             </p>
         </div>
         </div>
@@ -25,7 +25,7 @@
             <div class="mb-12 text-lg">for lack of funds</div>
             
             <p class="mb-2">
-              the oven is workshop focused on
+              the oven is a workshop focused on
               teaching bike mechanics.  stand time
               includes use of all tools and advice
               from our mechanics on how to fix and 
