@@ -1,5 +1,9 @@
 <template>
-  <Hero/>
+  <div>
+    <Hero/>
+    <Message/>
+    <Hours/>
+  </div>
 </template>
 
 <script>

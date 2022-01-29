@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'AgencyFB BlackWide';
+    src: url('AgencyFB-BlackWide.woff2') format('woff2'),
+        url('AgencyFB-BlackWide.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AgencyFB RegularWide';
+    src: url('AgencyFB-RegularWide.woff2') format('woff2'),
+        url('AgencyFB-RegularWide.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+  font-family: 'Agency fb bold';
+  src: url('agency-fb-bold.woff2') format('woff2'),
+      url('agency-fb-bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
