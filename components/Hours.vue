@@ -3,12 +3,12 @@
     <div class="container">
       <div class="sm:grid sm:grid-cols-2 sm:gap-24">
         <div class="sm:grid-cols-1 text-white mb-48 sm:mb-0">
-          <div class="uppercase text-center font-agblack text-xl mb-12">Hours of Operation</div>
+          <div class="uppercase text-center font-agblack text-base sm:text-xl mb-12">Hours of Operation</div>
           <div class="bg-white bg-opacity-80 text-black p-12 uppercase font-agbold font-bold">
-            <div class="mb-2 text-xl">Saturday : 10 - 6</div>
-            <div class="mb-2 text-xl">sunday : 10 -6 </div>
-            <div class="mb-12 text-xl">monday : 10 - 5</div>
-            <p class="mb-2 text-lg">
+            <div class="mb-4 sm:mb-2 text-sm sm:text-xl">Saturday : 10 - 6</div>
+            <div class="mb-4 sm:mb-2  text-sm sm:text-xl">sunday : 10 -6 </div>
+            <div class="mb-8 sm:mb-12  text-sm sm:text-xl">monday : 10 - 5</div>
+            <p class="mb-2 text-xs sm:text-lg">
               the oven is looking for volunteers
               for other nights of the week.
               to get involved please fill out the 
@@ -17,14 +17,14 @@
         </div>
         </div>
         <div class="sm:grid-cols-1 text-white mb-8 sm:mb-0">
-          <div class="uppercase text-center font-agblack text-xl mb-12">Costs & Policy</div>
+          <div class="uppercase text-center font-agblack text-base sm:text-xl mb-12">Costs & Policy</div>
           <div class="bg-white bg-opacity-80 text-black p-12 font-agreg uppercase font-agbold font-bold">
             
-            <div class="mb-2 text-xl">stand time : $10 / hour</div>
-            <div class="mb-2 text-xl">no one turned away </div>
-            <div class="mb-12 text-xl">for lack of funds</div>
+            <div class="mb-4 sm:mb-2 text-sm sm:text-xl">stand time : $10 / hour</div>
+            <div class="mb-4 sm:mb-2 text-sm sm:text-xl">no one turned away </div>
+            <div class="mb-4 sm:mb-2 text-sm sm:text-xl">for lack of funds</div>
             
-            <p class="mb-2 text-lg">
+            <p class="mb-2 text-xs sm:text-lg">
               the oven is a workshop focused on
               teaching bike mechanics.  stand time
               includes use of all tools and advice

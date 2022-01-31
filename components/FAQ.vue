@@ -55,12 +55,22 @@ section.faq{
 }
 
 .faq .accordion__title-text{
-  font-size:22px;
+  font-size:16px;
   text-transform: uppercase;
 }
 
 .faq .accordion__value{
-  font-size:18px;
-  line-height: 28px;
+  font-size:14px;
+  line-height: 20px;
+}
+@media (min-width: 767px) {
+  .faq .accordion__title-text{
+    font-size:22px;
+  }
+
+  .faq .accordion__value{
+    font-size:18px;
+    line-height: 28px;
+  }
 }
 </style>
