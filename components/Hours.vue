@@ -1,5 +1,5 @@
 <template>
-  <div class="hours py-24">
+  <div class="hours py-24 border-orange border-b-8">
     <div class="container">
       <div class="sm:grid sm:grid-cols-2 sm:gap-24">
         <div class="sm:grid-cols-1 text-white mb-48 sm:mb-0">
