@@ -1,5 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
+  ssr: false,
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -20,12 +21,13 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    
+    '@/assets/flickity/flickity.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    
+    { src: "@/plugins/Vue-Faq-Accordion", ssr: false },
+    { src: "@/plugins/Vue-Flickity" }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

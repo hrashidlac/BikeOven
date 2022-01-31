@@ -35,20 +35,17 @@
         </div>
       </div>
     </div>
-    
   </div>
 </template>
 <style scoped>
 .hours{
-
   width:100%;
   background:transparent url(@/assets/img/hours-mobile.jpg) no-repeat center center;
   background-size:cover;
 }
 @media (min-width: 767px) {
   .hours{
-    
-    background:transparent url(@/assets/img/hours.jpg) no-repeat center center;
+    background:transparent url(@/assets/img/hours.jpg) no-repeat center center;        
     background-size:cover;
   }
 }

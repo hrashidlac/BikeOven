@@ -3,6 +3,8 @@
     <Hero/>
     <Message/>
     <Hours/>
+    <Photos/>
+    <FAQ/>
   </div>
 </template>
 
